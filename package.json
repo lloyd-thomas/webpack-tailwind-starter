@@ -1,0 +1,20 @@
+{
+  "name": "webpack-tailwind-starter",
+  "version": "1.0.0",
+  "description": "Reusable Front-end Development Project Using Webpack and Tailwind CSS based on Justin Hough's startup project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lloyd-thomas/webpack-tailwind-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lloyd-thomas/webpack-tailwind-starter/issues"
+  },
+  "homepage": "https://github.com/lloyd-thomas/webpack-tailwind-starter#readme"
+}
